@@ -1,0 +1,26 @@
+CREATE TABLE customer(
+cID INT AUTO_INCREMENT KEY,
+cName VARCHAR(50),
+cAge INT
+);
+
+CREATE TABLE oder(
+oID INT AUTO_INCREMENT KEY,
+cId INT,	
+FOREIGN KEY (cId) REFERENCES customer (cID),
+oDate Date,
+oTotalPrice FLOAT
+);
+
+CREATE TABLE product(
+pID INT AUTO_INCREMENT KEY,
+pName VARCHAR(50),
+pPrice FLOAT
+);
+
+CREATE TABLE orderDetail(
+oID INT,
+FOREIGN KEY (oID) REFERENCES oder(oID),
+pID INT,
+FOREIGN KEY (pID) REFERENCES product(pID)
+);
