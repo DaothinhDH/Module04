@@ -11,14 +11,11 @@
     <title>Title</title>
 </head>
 <body>
-<form method="post" action="discount">
-     <label>Product Description: </label>
-     <input type="text" name="chi tiet" placeholder="Mo ta san pham">
-     <label>List Price</label>
-     <input type="text" name="Gia niem yet" placeholder="Gía niem yet">
-     <label>Discount Percent</label>
-     <input type="text" name="Chiet khau" placeholder="Ty le chiet khau">
-     <input type="submit" name="Tinh chiet khau">
- </form>
+<h1>Mo ta san pham: ${description} </h1>
+<br>
+<h1>Chiet khau san pham: ${discount_amount} </h1>
+<br>
+<h1>Gia san pham: ${discountPrice} </h1>
+<br>
 </body>
 </html>

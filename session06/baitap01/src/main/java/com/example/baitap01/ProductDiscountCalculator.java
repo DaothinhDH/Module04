@@ -18,16 +18,16 @@ public class ProductDiscountCalculator extends HttpServlet {
 
     @Override
     public void doPost(HttpServletRequest req, HttpServletResponse resp) throws SecurityException, IOException, ServletException {
-        String description = req.getParameter("chi tiet");
-        double list_price = Double.parseDouble(req.getParameter("Gia niem yet"));
-        double discount_percent = Double.parseDouble(req.getParameter("Chiet khau"));
+        String description = req.getParameter("description");
+        double list_price = Double.parseDouble(req.getParameter("discount_amount"));
+        double discount_percent = Double.parseDouble(req.getParameter("discountPrice"));
 
         double discount_amount = list_price * discount_percent * 0.01;
         double discountPrice = list_price - discount_amount;
 
         req.setAttribute("discount_amount",discount_amount);
         req.setAttribute("discountPrice",discountPrice);
-        req.getRequestDispatcher("productShow.jps").forward(req,resp);
+        req.getRequestDispatcher("discount.jsp").forward(req,resp);
     }
 
     public void destroy() {
