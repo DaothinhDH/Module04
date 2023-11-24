@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f45d345e-d3b8-460f-860a-ee279fb8416d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/session07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap01/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap01/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap01/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap01/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap01/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap01/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap01/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap01/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap01/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap01/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap01/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap2/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap2/src/main/java/com/ra/baitap2/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap2/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap2/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crud/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crud/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crud/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crud/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crud/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crud/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crud/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crud/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crud/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crud/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crud/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crud/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crud/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh02/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh02/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh02/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh02/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh02/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh02/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh02/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh02/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh02/src/main/java/com/ra/thuchanh02/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh02/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh02/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh1/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh1/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh1/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh1/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh1/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2YbMcFmhC70wOBryOvMandbIoi4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "android.gradle.sync.needed": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.43" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.43" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="hot-swap-classes" />
+      <deployment>
+        <artifact name="Gradle : com.example : Demo-CustomerManager-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="b408d243-162c-4b81-bcf1-cacba55e2d45" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53183" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.example : Demo-CustomerManager-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f45d345e-d3b8-460f-860a-ee279fb8416d" name="Changes" comment="" />
+      <created>1700789904397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700789904397</updated>
+      <workItem from="1700789905421" duration="11999000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
