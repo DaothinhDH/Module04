@@ -1,0 +1,10 @@
+{
+  "folders": [
+	{
+		"path": "../../../Module2-Project"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "eshopper-1.0.0"
+  }
+}
